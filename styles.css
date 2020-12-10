@@ -1,0 +1,16 @@
+ul {
+    background-color: black;
+    text-align: center;
+    list-style-type: none;
+    margin:30px;
+    display: inline;
+    
+}
+li{
+    color: white;
+    font-size: large;
+    cursor: pointer;
+    display: inline-block;
+    margin: 20px;
+
+}
