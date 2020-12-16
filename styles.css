@@ -2,9 +2,9 @@ ul {
     background-color: black;
     text-align: center;
     list-style-type: none;
-    margin:30px;
+    padding-left:  40px;
     display: inline;
-    
+    margin-left: -20px;
 }
 li{
     color: white;
@@ -12,5 +12,5 @@ li{
     cursor: pointer;
     display: inline-block;
     margin: 20px;
-
+    margin-top: -60px; 
 }
